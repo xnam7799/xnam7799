@@ -15,28 +15,35 @@ My main language are **Flutter**, **Swift**, and **React Native**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Skills
 
-| Flutter | Swift | React Native | Firebase | REST API |
-|--------|-------|---------------|----------|-----------|
-| ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) | ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift&logoColor=white) | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white) | ![REST API](https://img.shields.io/badge/-REST%20API-6DB33F?style=flat&logo=json&logoColor=white) |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xuannam1004&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuannam1004&theme=tokyonight" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🌐 Socials
 
-- 📧 Email: [xnam7799@gmail.com](mailto:xnam7799@gmail.com)  
-- 🌐 Facebook: [facebook.com/xuannam1004](https://facebook.com/xuannam1004)
+<p align="left">
+  <a href="https://facebook.com/xuannam1004" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:xnam7799@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/xuannam1004">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
