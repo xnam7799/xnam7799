@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Xuân Nam
 
 I'm a **Mobile Developer** who loves crafting modern and scalable apps with a strong focus on performance and great user experience.  
-My main tools are **Flutter**, **Swift**, and **React Native**.
+My main language are **Flutter**, **Swift**, and **React Native**.
 
 ---
 
